@@ -1,1 +1,1 @@
-Una calculador que te permite calcular el cubo, el cuadrado y el inverso de un número.
+Una calculadora que te permite calcular el cubo, el cuadrado, el inverso y el seno de un número.

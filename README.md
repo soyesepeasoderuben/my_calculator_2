@@ -1,1 +1,1 @@
-Una calculador que te permite calcular el cubo de un número.
+Una calculador que te permite calcular el cubo y el cuadrado de un número.
